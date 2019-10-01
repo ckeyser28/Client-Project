@@ -3,11 +3,9 @@
  <html lang=en>
  <head>
  <meta http-equiv=Content-Type content="text/html; charset=ISO-8859-1">
- <title>The Winemaking Home Page</title>
+ <title>UMN Cheese Club</title>
  <script language=JavaScript type="text/javascript" src=winescript.js>
  </script>
- <meta name=description content="A comprehensive How-To guide for home winemaking, including the largest collection of winemaking recipes on the Web, a home wine glossary, an incredible reference library, and winemaking instructions by Jack Keller.">
- <meta name=keywords content="wine, making, winemaking, recipes, ingredients, instructions, glossary, home, made, Jack Keller, Pleasanton, Texas, how, to, make, terms, definitions, homemade, basic, advance, advanced, methods, techniques, procedures, amateur, competition, country, non-grape, nongrape, grape, wild, fruit, berry, flower, herb, blog">
  <meta name=mytopic content="Home & Living:Food & Cooking:Beverages:Beer/Wine/Liquor">
  <meta name=verify-v1 content="0FKi5WVuPrQp2Q+Eawb4+eNPVAqfd/S3pNpt46GGWxo="/>
  <link rel=alternate type="application/rss+xml" title="Posts on 'Jack Keller&apos;s WineBlog' (RSS 2.0)" href="http://winemaking.jackkeller.net/rss.xml"/>
